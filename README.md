@@ -9,7 +9,7 @@ fork一份到你的账号下
 
 Usage:
 
-Creat a Fork
-Add your translations to forked repository, plz keep the dir, file name and file coder for standard, example dir: localisation/english/xxx_english.yml, example file name: xxxx_l_english.yml, force coder: UTF-8 with BOM.
-Create a PR
+Creat a Fork 
+Add your translations to forked repository, plz keep the dir, file name and file coder for standard, example dir: localisation/english/xxx_english.yml, example file name: xxxx_l_english.yml, force coder: UTF-8 with BOM. 
+Create a PR 
 Waiting Your PR to be accepted or modify your PR
