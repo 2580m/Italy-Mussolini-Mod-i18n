@@ -1,0 +1,10 @@
+﻿l_english:
+  shifttonavyprod_cat:0 "Naval Construction"
+
+  shifttonavyprod_enable:0 "Naval Construction Catch-Up Program"
+  shifttonavyprod_enable_desc:0 "Shift the focus of industrial production towards the navy to rapidly expand our fleet. However, prioritizing naval development means production in other areas will be somewhat affected."
+
+  shifttonavyprod_disable:0 "Cancel Naval Construction Catch-Up Program"
+  shifttonavyprod_disable_desc:0 "Cancel the decision to shift industrial production focus towards the navy, thereby restoring balanced production across all sectors."
+
+  shifttonavyprod_idea:0 "Productivity Tilted Towards Navy"
