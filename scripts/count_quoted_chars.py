@@ -16,7 +16,7 @@ import sys
 
 def find_quoted_strings(text):
     # 匹配双引号或单引号内的字符串，支持转义引号和跨行（DOTALL）
-    pattern = re.compile(r'(?s)"((?:\\.|[^"\\])*)"|\'((?:\\.|[^\\'\\])*)\'')
+    pattern = re.compile(r"(?s)\"((?:\\.|[^\"\\])*)\"|'((?:\\.|[^\\'\\])*)'")
     results = []
     for m in pattern.finditer(text):
         s = m.group(1) if m.group(1) is not None else m.group(2)
