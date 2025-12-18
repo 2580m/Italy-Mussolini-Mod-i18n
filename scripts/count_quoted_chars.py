@@ -79,6 +79,7 @@ def main():
     p = argparse.ArgumentParser(description='Count characters inside quoted strings in YAML files')
     p.add_argument('--path', '-p', default='.', help='Directory path to scan (recursive)')
     p.add_argument('--json', action='store_true', help='Output machine-readable JSON')
+    p.add_argument('--only-chinese', action='store_true', help='只统计被引号包裹字符串中的中文字符数')
     args = p.parse_args()
 
     if not os.path.isdir(args.path):
