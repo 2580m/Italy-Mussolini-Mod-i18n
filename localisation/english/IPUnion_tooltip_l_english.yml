@@ -106,3 +106,4 @@
   ITA_enable_theorist_tt: "§GEnable§! §YTheorist§!：\n"
   ITA_inner_circle_acerbo_agricultural_collectivization_tt: "All states that have undergone land reform will gain the modifier: §Y$ITA_agricultural_collectivization$§!"
   ITA_ricostruzione_industriale_cg_penalty_modded_tt: "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$\n$MODIFIER_CONSUMER_GOODS_FACTOR$：§Y-2.0%§!\n\n"
+  ITA_propaganda_cheer_for_plane_insdustry_tt: "§YFor 180 Days: §!\n[ITA_propaganda_cheer_for_plane_insdustry_defined_text]"

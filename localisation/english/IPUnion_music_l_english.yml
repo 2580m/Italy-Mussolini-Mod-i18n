@@ -29,5 +29,10 @@
  DownHill: "下山"
  LacanzonedelCarnaro: "La canzone del Carnaro"
  LacanzonedelCarnaro_Accompaniment: "La canzone del Carnaro/Accompaniment"
- Downhill: "下山"
+ Avanti_Popolo: "Avanti Popolo"
+ Parata_d_eroi: "Parata d'eroi"
+ Inno_di_Garibaldi: "Inno di Garibaldi"
+
+ ## HIDDEN MUSIC ##
+ Downhill: "下山（下山）"
  MarciaReale: "皇家法令进行曲"
